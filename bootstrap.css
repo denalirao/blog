@@ -290,7 +290,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #EDEDED;
 }
 input,
 button,
@@ -358,7 +358,8 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #eeeeee;
+  /*border-top: 1px solid #eeeeee;*/
+  border-top: 1px solid green;
 }
 .sr-only {
   position: absolute;
